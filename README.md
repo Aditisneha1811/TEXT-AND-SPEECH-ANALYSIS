@@ -19,12 +19,14 @@ Displays the predicted emotion and a suitable quote in real-time.
 
 **Requirements**
 Python (>=3.7)
+
 **Libraries**:
 Gradio
 Pandas
 Numpy
 TensorFlow/PyTorch (for emotion detection model)
 NLTK or similar library (for text preprocessing)
+
 **How It Works**
 Users input a text phrase through the GUI.
 The system preprocesses the text and predicts the emotion using a trained model.
